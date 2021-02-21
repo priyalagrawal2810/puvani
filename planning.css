@@ -1,0 +1,25 @@
+body{
+  background-color: #dcdcdc;
+}
+img{
+  height: 380px;
+  width:368px;
+}
+table{
+  width: 1500px;
+  background-color: #F8CFF8;
+}
+td{
+  width: 575px;
+}
+.x{
+  text-align: center;
+  font-size: 50px;
+}
+.xx{
+  font-size: 30px;
+}
+.xxx{
+  background-color: #87A0F2;
+  border-radius:30px;
+}
